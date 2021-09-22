@@ -1,0 +1,15 @@
+{
+	"name": "Web1wiki",
+	"properties": {
+		"annotations": [],
+		"type": "Web",
+		"typeProperties": {
+			"url": "https://en.wikipedia.org/wiki/List_of_National_Football_League_career_scoring_leaders",
+			"authenticationType": "Anonymous"
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime1",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
